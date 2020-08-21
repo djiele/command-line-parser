@@ -1,0 +1,23 @@
+{
+    "name": "djiele/command-line-parser",
+    "description": "A flexible command line parser",
+    "type": "library",
+    "keywords": [
+        "command line", "options", "script arguments", "argv", "argc"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "djiele",
+            "email": "ojo.djiele@gmail.com",
+            "homepage": "https://www.djiele.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Djiele\\": "src/Djiele/"
+        }
+    }
+}
